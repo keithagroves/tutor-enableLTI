@@ -1,3 +1,0 @@
-[tutor.plugin.v0]
-enableLTI = tutorenableLTI.plugin
-
