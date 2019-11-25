@@ -1,1 +1,2 @@
-tutor_enableLTI.egg-info
+tutor_enableLTI.egg-info*
+.vscode*
